@@ -1,8 +1,9 @@
+import ViewContacts from "./components/ViewContacts";
 
 function App() {
   return (
     <div>
-      <h1 className="">Hello</h1>
+      <ViewContacts />
     </div>
   );
 }
