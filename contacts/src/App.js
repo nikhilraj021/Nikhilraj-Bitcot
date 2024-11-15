@@ -1,9 +1,9 @@
-import ViewContacts from "./components/ViewContacts";
+import ContactsHome from "./components/ContactsHome";
 
 function App() {
   return (
     <div>
-      <ViewContacts />
+      <ContactsHome />
     </div>
   );
 }
